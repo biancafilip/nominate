@@ -90,7 +90,7 @@ class SearchBar extends React.Component {
 
         return (
             <div className="container">
-            <h2 className="heading"> The Shoppies </h2>
+            <h2 className="heading"> Build your list of favorite movies! Search a movie below.. </h2>
             <label className="search-label" htmlFor="search-input">
                 <input
                     type="text"
